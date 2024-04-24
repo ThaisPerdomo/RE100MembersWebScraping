@@ -29,7 +29,7 @@ pip install -r requirements.txt
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/ThaisPerdomo/RE100MembersWebSrapping
+    git clone https://github.com/ThaisPerdomo/RE100MembersWebSraping
     ```
 
 2. **Navigate to the Directory:**
